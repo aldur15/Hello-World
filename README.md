@@ -8,9 +8,11 @@ This repository contains the code for the Hello World programm implemented as an
 - unpack it 
 - select the Hello-World.html file to open the website in your prefered webbrowser
 
+
+### If you followed the steps above your webbrowser should look like this
+
 ![](screenshot.JPG)
 
 
 
-Erstellen Sie eine Readme welche Ihrer Anwendung (inklusive Screenshot), die
-Voraussetzungen und den Installationsvorgang beschreib
+
