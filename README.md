@@ -4,7 +4,9 @@ This repository contains the code for the Hello World programm implemented as an
 
 # To try out the programm
 
-- simply download the repository unpack it and select the Hello-World.html file to open the website in your prefered webbrowser
+- simply download the repository 
+- unpack it 
+- select the Hello-World.html file to open the website in your prefered webbrowser
 
 ![](screenshot.JPG)
 
